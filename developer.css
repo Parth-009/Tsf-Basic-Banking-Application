@@ -1,0 +1,137 @@
+*{
+			list-style: none;
+			text-decoration: none;
+			margin: 0px;
+			padding: 0px;
+		}
+		.feature{
+			float:right;
+			padding:10px;
+			font-size: 20px;
+			word-spacing: 7px;
+		}
+
+		.main{
+			height:300px;
+			width:100%;
+			background-color: #5CDB95;
+			
+		}
+		.welcome font{	
+			margin-left: 190px;
+			margin-top: 70px;
+			font-size: 50px;
+		}
+		.navbar{
+			color:red;
+			width:100%;
+			height: 50px;
+			background-color: yellow;
+		}
+		.navbar li{
+			display: inline-block;
+			
+		}
+		.navbar li a{
+			margin-top: 0px;
+			text-decoration: none;
+			font-family: poppins;
+		}
+		
+		.bank{
+			float:left;
+			font-size: 30px;
+			margin-top: 0px;
+		}
+		.image1{
+				margin-top: 10px;
+			}
+		.image2{
+			margin-top:10px;
+			margin-left: 30px;
+
+		}
+		.image3{
+			margin-top:10px;
+			float: center;
+			}
+		.image4{
+			margin-top:10px;
+		}
+		.font2{
+			margin-top:5px;
+			color:brown;
+			font-size:30px;
+		}
+		.font3{
+			margin-top:5px;
+			color:brown;
+			font-size:30px;
+		}
+		.font4{
+			margin-top:5px;
+			color:brown;
+			font-size:30px;
+		}
+		.welcomemsg{
+			height:40px;
+			width: 100%;
+			font-size: 25px;
+			background-color: yellow;
+			color:green;
+		}
+		.user{
+			width: 100%;
+			height: 700px;
+			background-color: #5CDB95;
+		}
+		.mrgntp20{
+			margin-top: 17px;
+			width: 600px;
+			text-align: center;	
+			margin-left: 120px;
+		}
+		.mrgntp20 th{
+			font-size: 18px;
+			color: red;
+		
+			
+		}
+		.mrgntp20 tr{
+			font-size: 15px;
+			
+			
+		}
+		.view{
+			margin-left: 270px;
+			margin-top: 10px;	
+		}
+		.transfer{
+			height: 500px;
+			width: 100%;
+			margin-top: 50px;
+		}
+
+		.form{
+			height: 590px;
+			width: 100%;
+			background-color: #5CDB95;
+		}
+		.form h1{
+			margin-left: 250px;
+			margin-top: 20px;
+		}
+		.form label{
+			margin-left: 200px;
+			padding: 10px;
+
+		}
+
+		.button input{
+			margin-left: 250px;
+			size: 30px;
+		}
+
+		.createuser{
+			background-color: #5CDB95;
+		}
